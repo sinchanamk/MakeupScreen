@@ -1,0 +1,4 @@
+#Thu May 06 16:12:42 IST 2021
+base.0=E\:\\Flutter_programs\\makeup\\makeup\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
